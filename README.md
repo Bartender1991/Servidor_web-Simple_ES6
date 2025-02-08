@@ -1,4 +1,4 @@
-# Wer Server en Node JS
+# Wer Server en Node JS con ES6 - MODULOS
 
 Realizamos un servidor web donde servimos una web de tipo red social como la del ex pajarito
 
